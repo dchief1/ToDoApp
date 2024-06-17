@@ -1,0 +1,2 @@
+class TaskSchema < ApplicationRecord
+end
